@@ -11,4 +11,11 @@ public class an {
 		return null;
 		
 	}
+	
+	
+	public String sayq(){
+		System.out.println("woshj ");
+		return null;
+		
+	}
 }
